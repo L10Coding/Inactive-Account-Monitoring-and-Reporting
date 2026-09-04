@@ -1,2 +1,3 @@
-# Inactive-Account-Monitoring-and-Reporting
+# 💻⌨️🖥️🖨️ 🖲️🕹️💾🗜️📡📡🧰💎🔧🔨. ⚙️ 🔩🩺🩺🔑🔑🗝️🗝️🖼️🪟📒📘📚📎🖇️📌📍✂️🖊️🖍️📝🔍🔎🔎🔏🔏🔐🔒🔓
+Inactive-Account-Monitoring-and-Reporting
 Addressing vulnerabilities registering as Inactive/Stale accounts.
