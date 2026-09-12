@@ -2,6 +2,10 @@
 # 🔍 Troubleshooting
 📋 Prerequisites & Requirements
 🚀 Key Features
+🧹 Companion Script: Bulk Test User Cleanup & Permanent Purge
+
+
+
 
 Inactive-Account-Monitoring-and-Reporting
 Addressing vulnerabilities registering as Inactive/Stale accounts.
