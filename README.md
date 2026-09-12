@@ -1,6 +1,6 @@
 # 💻⌨️🖥️🖨️ 🖲️🕹️💾🗜️📡📡🧰💎🔧🔨. ⚙️ 🔩🩺🩺🔑🔑🗝️🗝️🖼️🪟📒📘📚📎🖇️📌📍✂️🖊️🖍️📝🔍🔎🔎🔏🔏🔐🔒🔓. 
 # 🔍 Troubleshooting
-
+📋 Prerequisites & Requirements
 
 
 Inactive-Account-Monitoring-and-Reporting
